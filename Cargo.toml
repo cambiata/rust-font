@@ -16,4 +16,4 @@ postscript = "0.14"
 truetype = "0.30"
 
 [dev-dependencies]
-svg = "0.9"
+svg = "0.12.1"
